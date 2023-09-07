@@ -153,7 +153,7 @@ CHIP Not16 {
 
 Esta compuerta se puede describir como una lista de 16 salidas, por ende tiene 32 entradas en total
 
-![Image text](https://github.com/Arquitectura-Grupo-6/codecrafteam/blob/main/lab1/images/and16.png)
+![Image text](https://github.com/Arquitectura-Grupo-6/codecrafteam/blob/main/lab1/images/and16.jpeg)
 
 <pre>
 CHIP And16 {

@@ -122,7 +122,7 @@ CHIP DMux {
 
 La compuerta NOT16 está conformada por 16 entradas y 16 salidas de la compuerta Not 
 
-![Image text](https://github.com/Arquitectura-Grupo-6/codecrafteam/blob/main/lab1/images/not16.png)
+![Image text](https://github.com/Arquitectura-Grupo-6/codecrafteam/blob/main/lab1/images/not16.jpeg)
 
 <pre>
 CHIP Not16 {
@@ -153,7 +153,7 @@ CHIP Not16 {
 
 Esta compuerta se puede describir como una lista de 16 salidas, por ende tiene 32 entradas en total
 
-![Image text](https://github.com/Arquitectura-Grupo-6/codecrafteam/blob/main/lab1/images/and16.jpeg)
+![Image text](https://github.com/Arquitectura-Grupo-6/codecrafteam/blob/main/lab1/images/and16.png)
 
 <pre>
 CHIP And16 {
